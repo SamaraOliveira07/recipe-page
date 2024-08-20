@@ -1,0 +1,57 @@
+@media (max-width:1024px) {
+    img {
+        margin-top: 5%;
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .receita {
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 10px; 
+    }
+
+    img {
+        margin-top: 5%;
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+        height: auto;
+    }
+
+    h1, h2 {
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 1.5em; 
+    }
+
+    p, ol, ul {
+        margin: 10px;
+        font-size: 1em;
+    }
+
+    .preparo {
+        margin-left: 10px;
+    }
+
+    li {
+        margin: 10px 0; 
+    }
+
+    #item {
+        padding-bottom: 30px;
+    }
+
+    body {
+        background-color: #7d4d31;
+        margin: 0;
+    }
+
+    .receita {
+        border: none;
+    }
+}
